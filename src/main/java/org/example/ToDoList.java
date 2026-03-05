@@ -1,5 +1,7 @@
 package org.example;
 
+import java.util.Scanner;
+
 public class ToDoList {
     private User user;
     private boolean isRunning;
